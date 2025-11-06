@@ -7,7 +7,7 @@ const VIDEOS = {
   fast: "https://content.codecademy.com/courses/React/react_video-fast.mp4",
   slow: "https://content.codecademy.com/courses/React/react_video-slow.mp4",
   cute: "https://content.codecademy.com/courses/React/react_video-cute.mp4",
-  eek: "https://pixabay.com/videos/download/video-39513_source.mp4",
+  eek: "https://content.codecademy.com/courses/React/react_video-eek.mp4",
 };
 
 function App() {
